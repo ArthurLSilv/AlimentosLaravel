@@ -1,4 +1,4 @@
-# Nome do Projeto
+# AlimentosLaravel
 
 Projeto desenvolvido para estudos utilizando **Laravel**.
 
@@ -12,6 +12,5 @@ Projeto desenvolvido para estudos utilizando **Laravel**.
 
 ## 📌 Funcionalidades
 
-- CRUD de registros
-- Simulação de sistema de compras
+- CRUD de registro de alimentos
 
